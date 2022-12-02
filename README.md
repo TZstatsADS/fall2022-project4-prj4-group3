@@ -24,7 +24,7 @@ Term: Fall 2022
 The following files, located in the /doc directory are important for understanding this project:
 1. main.ipynb,<br>
 
-2. The report is called - Paper4_main-pdf.pdf
+2. The report is called - main-pdf.pdf
 
 	
 **Contribution statement**: We divided into 2 groups. Ting Han , Shreya Sinha and Chaitanya Shah worked on paper A4. Peter Langer and Ferra Suryani worked on paper A1.Ting Han is the presenter. All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
